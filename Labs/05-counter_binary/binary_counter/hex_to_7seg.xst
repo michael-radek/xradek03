@@ -1,0 +1,5 @@
+set -tmpdir "/home/lab661/Documents/xradek03/Digital-electronics-1/Labs/05-counter_binary/binary_counter/xst/projnav.tmp"
+set -xsthdpdir "/home/lab661/Documents/xradek03/Digital-electronics-1/Labs/05-counter_binary/binary_counter/xst"
+elaborate
+-ifn hex_to_7seg.prj
+-ifmt mixed
