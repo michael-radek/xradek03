@@ -1,0 +1,28 @@
+Command line:
+   traffic_top_tb00_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62111
+
+Thu Mar 26 22:10:09 2020
+
+
+ Elaboration Time: 0.3125 sec
+
+ Current Memory Usage: 5817.22 Meg
+
+ Total Signals          : 10
+ Total Nets             : 14
+ Total Signal Drivers   : 6
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 5
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 506
+
+ Total Simulation Time: 0.453125 sec
+
+ Current Memory Usage: 5345.33 Meg
+
+Thu Mar 26 22:25:44 2020
+
